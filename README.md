@@ -25,7 +25,30 @@
    - ...
 
 ## 💡 My Passions
+For my past experiences, I strive to be **MORE THAN** a business analyst, I would not limit my future career but diversify it into:
 
+- 📊 **Business Analyst**  
+  Effective to deliver rsults, responsive to my colleagues, sensitive to business.
+- 💻 **Data Scientist**  
+  Full stack scientist, familiar and expertise of database construction and analysis, always be open to new technologies and models.
+- 💡 **Product Manager**  
+  Sensitive to dig out market needs, and to bridge the gap between technology and user needs to create impactful products.
+
+
+
+Besides, I would not limit my life possibilities to be restricted by my working role, I might also show up as:
+- 📸 **Photographer**  
+  Capturing moments and telling stories through the lens.
+- 🎬 **Video Editor**  
+  Crafting compelling narratives with visual storytelling.
+- ⚽ **Sports & Outdoor Activities Enthusiast**  
+  Always thrives to do sports, keen on playing basketball, hiking, etc.
+- ...
+  
 ## 🚀 My Projects
 
-## 
+## ✨ My Additional Skills
+- Native Speaker of Mandarin, Cantonese and English, and as a rookie of francais.
+- Cooking and bakery enthusiast.
+- Amateur guitar player, singer.
+- ...
