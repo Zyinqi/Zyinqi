@@ -50,7 +50,7 @@ Besides, I would not limit my life possibilities as I might also show up as:
 - ...
   
 ## 🚀 My Projects
-- Machine Learning
+- [Machine Learning](https://github.com/Zyinqi/Machine-Learning-Project)
 - Data Analysis
 - Creative Business Competitions
 - ...
