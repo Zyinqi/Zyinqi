@@ -24,6 +24,10 @@
    - No.4 & Best Popularity Award in CUHKSZ's vlog competition
    - ...
 
+## 📫 Get in Touch
+- **Email:** marazhong1@gmail.com
+- **LinkedIN:** [Yinqi Zhong's Profile](https://www.linkedin.com/in/yinqi-marcus-zhong-7824042a5/)
+
 ## 💡 My Passions
 For my past experiences, I strive to be **MORE THAN** a business analyst, I would not limit my future career but diversify it into:
 
@@ -46,6 +50,52 @@ Besides, I would not limit my life possibilities as I might also show up as:
 - ...
   
 ## 🚀 My Projects
+
+## 👓 Language and Tools that I'm Familiar with
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
+</a>
+<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/r/r-line.svg" style="display: inline-block;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-line.svg" alt="R" width="42" height="42" />
+</a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
+</a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" />
+</a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
+</a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" style="display: inline-block;">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="42" height="42" />
+</a>
+<a target="_blank" href="https://icon.icepanel.io/AWS/svg/Analytics/QuickSight.svg" style="display: inline-block;">
+  <img src="https://icon.icepanel.io/AWS/svg/Analytics/QuickSight.svg" alt="Quicksight" width="42" height="42" />
+</a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" />
+</a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
+</a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/xmindapp/xmindapp-icon.svg" style="display: inline-block;">
+  <img src="https://www.vectorlogo.zone/logos/xmindapp/xmindapp-icon.svg" alt="XMind" width="42" height="42" />
+</a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" style="display: inline-block;">
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="42" height="42" />
+</a>
+<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="display: inline-block;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" />
+</a>
+
+- Database Pipeline: MySQL, PostreSQL, RedshiftSQL
+- Data Dashboard: Tableau, Quicksight, AWS Services
+- Data Analytics: Python, R, Microsoft Offices
+- Web: Javascript
+- Product Design: Figma, Xmind
+- Product Presentation: Canva, Photoshop
+
 
 ## ✨ My Additional Skills
 - Native Speaker of Mandarin, Cantonese and English, and as a rookie of francais.
