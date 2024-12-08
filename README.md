@@ -36,7 +36,7 @@ For my past experiences, I strive to be **MORE THAN** a business analyst, I woul
 
 
 
-Besides, I would not limit my life possibilities to be restricted by my working role, I might also show up as:
+Besides, I would not limit my life possibilities as I might also show up as:
 - 📸 **Photographer**  
   Capturing moments and telling stories through the lens.
 - 🎬 **Video Editor**  
@@ -49,6 +49,6 @@ Besides, I would not limit my life possibilities to be restricted by my working 
 
 ## ✨ My Additional Skills
 - Native Speaker of Mandarin, Cantonese and English, and as a rookie of francais.
-- Cooking and bakery enthusiast.
+- Cooking and bakery
 - Amateur guitar player, singer.
 - ...
