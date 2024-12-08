@@ -50,6 +50,11 @@ Besides, I would not limit my life possibilities as I might also show up as:
 - ...
   
 ## 🚀 My Projects
+- Machine Learning
+- Data Analysis
+- Creative Business Competitions
+- ...
+
 
 ## 👓 Language and Tools that I'm Familiar with
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;">
