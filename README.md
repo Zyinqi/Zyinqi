@@ -7,7 +7,7 @@
 
 ## 🎓 About Me
 - **Undergraduate Student (2021 - 2025)**  
-  [The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/)
+  [School of Data Science, The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/)
 - **Exchange Student (2024 Spring)**
   [Warwick Business School](https://www.wbs.ac.uk/)
 - **Major:** Data Science and Big Data Technology  
@@ -18,6 +18,7 @@
    - Category Operationist at Poison👔 (Jun 2023 - Aug 2023)
 - **Campus Activities**
    - [Global Study Abroad Embassador of 2024](https://oal.cuhk.edu.cn/article/1655)
+   - Peer Advisor of School of Data Science (2023-2024)
    - Awarded Dean List in School of Data Science (2022-2024)
    - Core Member at the Planning Department(策划部) at the Music Union (2022-2023)
    - Student Assistant of School of Data Science at CUHKSZ (2021-2023)
@@ -63,6 +64,14 @@ Besides, I would not limit my life possibilities as I might also show up as:
 <a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/r/r-line.svg" style="display: inline-block;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-line.svg" alt="R" width="42" height="42" />
 </a>
+
+<a target="_blank" href="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" style="display: inline-block;">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML" width="42" height="42" />
+</a>
+
+<a target="_blank" href="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" style="display: inline-block;">
+  <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="CSS" width="42" height="42" />
+</a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
 </a>
@@ -97,7 +106,7 @@ Besides, I would not limit my life possibilities as I might also show up as:
 - Database Pipeline: MySQL, PostreSQL, RedshiftSQL
 - Data Dashboard: Tableau, Quicksight, AWS Services
 - Data Analytics: Python, R, Microsoft Offices
-- Web: Javascript
+- Web: HTML, CSS, Javascript
 - Product Design: Figma, Xmind
 - Product Presentation: Canva, Photoshop
 
