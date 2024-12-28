@@ -54,6 +54,7 @@ Besides, I would not limit my life possibilities as I might also show up as:
 - [Machine Learning](https://github.com/Zyinqi/Machine-Learning-Project)
 - Data Analysis, Business Intelligence and Database
 - [Creative Business Competitions](https://github.com/Zyinqi/Business-Competition-and-Case-Study)
+- [Web Design](https://github.com/Zyinqi/WebProject.github.io)
 - ...
 
 
